@@ -27,7 +27,7 @@ export default function Home() {
           
           <a
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-12 sm:h-14 px-6 sm:px-8 w-full sm:w-auto"
-            href="https://github.com/yourusername/streaver-app"
+            href="https://github.com/Felipedossantosf/streaver-app"
             target="_blank"
             rel="noopener noreferrer"
           >
